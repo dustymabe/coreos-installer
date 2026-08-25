@@ -8,6 +8,7 @@ nav_order: 8
 
 Major changes:
 
+- Add Fedora 46 signing key
 - rdcore: Allow multiple hostkeys in `zipl` command via `--hostkey` or `-k`
 
 Minor changes:
